@@ -1,2 +1,2 @@
 # NiiArday
-First GIt
+First Git
